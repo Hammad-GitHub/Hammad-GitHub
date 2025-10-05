@@ -20,15 +20,15 @@
   </picture>
 </p>
 
-A dedicated Computer Science student at FAST-NUCES, building a strong foundation in core programming principles and low-level systems development. Grounded in a rigorous academic background from BSS and BCP.
+<span style="color: #AF7A5F;">A dedicated Computer Science student at FAST-NUCES, building a strong foundation in core programming principles and low-level systems development. Grounded in a rigorous academic background from BSS and BCP.</span>
 
 ---
 
 ## Current Focus
 
-- Mastering the C programming language and fundamental data structures
-- Developing a "Reverse Duck Hunt" game using the Raylib library  
-- Strengthening my understanding of computer science fundamentals
+- <span style="color: #AF7A5F;">Mastering the C programming language and fundamental data structures</span>
+- <span style="color: #AF7A5F;">Developing a "Reverse Duck Hunt" game using the Raylib library</span>
+- <span style="color: #AF7A5F;">Strengthening my understanding of computer science fundamentals</span>
 
 ## Toolkit
 
@@ -40,9 +40,9 @@ A dedicated Computer Science student at FAST-NUCES, building a strong foundation
   </picture>
 </p>
 
-- **Languages:** C
-- **Tools:** Git, GitHub, VS Code, Dev C++
-- **Concepts:** Arrays, Memory Management, Problem Solving
+- **Languages:** <span style="color: #8B5A3C;">C</span>
+- **Tools:** <span style="color: #8B5A3C;">Git, GitHub, VS Code, Dev C++</span>
+- **Concepts:** <span style="color: #8B5A3C;">Arrays, Memory Management, Problem Solving</span>
 
 ## GitHub Profile
 
@@ -50,10 +50,10 @@ A dedicated Computer Science student at FAST-NUCES, building a strong foundation
 
 ## Beyond Code
 
-With a deep appreciation for Islamic and South Asian art and architecture, a fondness for Urdu poetry, and a commitment to physical and spiritual well-being through gym and Islamic knowledge.
+<span style="color: #AF7A5F;">With a deep appreciation for </span><span style="color: #8B5A3C;">Islamic and South Asian art and architecture</span><span style="color: #AF7A5F;">, a fondness for </span><span style="color: #8B5A3C;">Urdu poetry</span><span style="color: #AF7A5F;">, and a commitment to physical and spiritual well-being through gym and Islamic knowledge.</span>
 
 ---
 
 ## Contact
 
-**Email:** [m.hammadshah052006@gmail.com](mailto:m.hammadshah052006@gmail.com)
+**Email:** <span style="color: #8B5A3C;">[m.hammadshah052006@gmail.com](mailto:m.hammadshah052006@gmail.com)</span>
