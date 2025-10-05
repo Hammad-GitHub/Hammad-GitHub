@@ -14,23 +14,11 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Hammad-GitHub&theme=dark&hide_border=true&background=00000000&fire=E3C9AB&currStreakLabel=E3C9AB">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Hammad-GitHub&theme=default&hide_border=true&background=00000000&fire=AF7A5F&currStreakLabel=8B5A3C">
-    <img src="https://streak-stats.demolab.com/?user=Hammad-GitHub&theme=default&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Hammad-GitHub&theme=dark&hide_border=true&background=00000000&fire=E3C9AB&currStreakLabel=E3C9AB">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Hammad-GitHub&theme=default&hide_border=true&background=00000000&fire=AF7A5F&currStreakLabel=8B5A3C">
+    <img src="https://streak-stats.demolab.com?user=Hammad-GitHub&theme=default&hide_border=true">
   </picture>
 </p>
-
-<span style="color: #AF7A5F;">A dedicated Computer Science student at FAST-NUCES, building a strong foundation in core programming principles and low-level systems development. Grounded in a rigorous academic background from BSS and BCP.</span>
-
----
-
-## Current Focus
-
-- <span style="color: #AF7A5F;">Mastering the C programming language and fundamental data structures</span>
-- <span style="color: #AF7A5F;">Developing a "Reverse Duck Hunt" game using the Raylib library</span>
-- <span style="color: #AF7A5F;">Strengthening my understanding of computer science fundamentals</span>
-
-## Toolkit
 
 <p align="center">
   <picture>
@@ -40,20 +28,31 @@
   </picture>
 </p>
 
-- **Languages:** <span style="color: #8B5A3C;">C</span>
-- **Tools:** <span style="color: #8B5A3C;">Git, GitHub, VS Code, Dev C++</span>
-- **Concepts:** <span style="color: #8B5A3C;">Arrays, Memory Management, Problem Solving</span>
+---
 
-## GitHub Profile
+## Current Focus
+- Mastering the C programming language and core data structures  
+- Developing a "Reverse Duck Hunt" game using Raylib  
+- Strengthening computer science fundamentals  
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Hammad-GitHub&theme=flat&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4)
+---
+
+## Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hammad-GitHub&bg_color=00000000&color=AF7A5F&line=8B5A3C&point=E3C9AB&area=true&hide_border=true)
+
+---
+
+## Toolkit
+- **Languages:** C  
+- **Tools:** Git, GitHub, VS Code, Dev C++  
+- **Concepts:** Arrays, Memory Management, Problem Solving  
+
+---
 
 ## Beyond Code
-
-<span style="color: #AF7A5F;">With a deep appreciation for </span><span style="color: #8B5A3C;">Islamic and South Asian art and architecture</span><span style="color: #AF7A5F;">, a fondness for </span><span style="color: #8B5A3C;">Urdu poetry</span><span style="color: #AF7A5F;">, and a commitment to physical and spiritual well-being through gym and Islamic knowledge.</span>
+A deep appreciation for Islamic and South Asian art and architecture, a fondness for Urdu poetry, and a commitment to physical and spiritual well-being through gym and Islamic knowledge.  
 
 ---
 
 ## Contact
-
-**Email:** <span style="color: #8B5A3C;">[m.hammadshah052006@gmail.com](mailto:m.hammadshah052006@gmail.com)</span>
+**Email:** [m.hammadshah052006@gmail.com](mailto:m.hammadshah052006@gmail.com)  
