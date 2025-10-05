@@ -12,6 +12,14 @@
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Hammad-GitHub&theme=dark&hide_border=true&background=00000000&fire=E3C9AB&currStreakLabel=E3C9AB">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Hammad-GitHub&theme=default&hide_border=true&background=00000000&fire=AF7A5F&currStreakLabel=8B5A3C">
+    <img src="https://streak-stats.demolab.com/?user=Hammad-GitHub&theme=default&hide_border=true">
+  </picture>
+</p>
+
 A dedicated Computer Science student at FAST-NUCES, building a strong foundation in core programming principles and low-level systems development. Grounded in a rigorous academic background from BSS and BCP.
 
 ---
