@@ -42,6 +42,14 @@
 ## Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hammad-GitHub&bg_color=00000000&color=AF7A5F&line=8B5A3C&point=E3C9AB&area=true&hide_border=true)
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hammad-GitHub/Hammad-GitHub/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hammad-GitHub/Hammad-GitHub/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hammad-GitHub/Hammad-GitHub/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
 ---
 
 ## Toolkit
