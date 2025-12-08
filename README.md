@@ -33,6 +33,8 @@
 ## Current Focus
 - Mastering the C programming language and core data structures  
 - Developing a "Reverse Duck Hunt" game using Raylib  
+- Learning C++ for object-oriented programming  
+- Building web projects with HTML, CSS, and JavaScript  
 - Strengthening computer science fundamentals  
 
 ---
@@ -46,7 +48,10 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c" alt="C"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
 </p>
@@ -59,4 +64,4 @@ A deep appreciation for Islamic and South Asian art and architecture, a fondness
 ---
 
 ## Contact
-**Email:** [m.hammadshah052006@gmail.com](mailto:m.hammadshah052006@gmail.com)  
+**Email:** [m.hammadshah052006@gmail.com](mailto:m.hammadshah052006@gmail.com)
